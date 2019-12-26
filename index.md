@@ -1,23 +1,29 @@
-## Current and Previous Projects
+## James Park: Current and Previous Projects
 
 ---
 
 ### ReviveMed
 
-[Network Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Network Analysis]
+<img src="images/networkimage.jpg?raw=true"/>
 
-hahaha
+From a graph database composed of millions of known molecular interactions, I create species, disease, and tissue specific molecular graphs that are subgraphs of the entire network. I then apply graph algorithms like deep-walk and artificial intelligence to identify potential therapeutic targets.
 
 ---
-[Feature Engine](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Feature Engine]
+
+Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, various statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered using different significant thresholds and used to create a disease module using our ReviveMed mathematical algorithm.
 
 ---
 
 ### Harvard Biostatistics Master's Thesis
 
-[Associations Between Volitional Physical Activity and Mortality Index in HIV Cohorts](http://example.com/)
+[Associations Between Volitional Physical Activity and Mortality Index in HIV Cohorts]
+<img src="images/simulations.jpg?raw=true"/>
+
+People living with HIV/AIDS (PLWH) are living longer but with increased risk for functional decline compared to HIV negative adults of the same age. Literature suggests that slower walking speed is associated with adverse health outcomes, and faster decrease in walking speed is correlated with worse health outcomes. My thesis explored the role of Veterans Aging Cohort Study (VACS) indices as the predictors of accelerometry-based physical activity in two HIV cohorts. 
+
+I explored different models such as linear mixed model and generalized estimating equations. Additionally, I performed power and bias simulations to see how the results change by adding different noise to the data. 
 
 ---
 
