@@ -2,7 +2,7 @@
 
 ---
 
-### ReviveMed
+### ReviveMed (June 2019 - Present)
 
 [Network Analysis](https://www.revivemed.io/)
 <img src="images/nash2.jpg?raw=true"/>
@@ -12,11 +12,11 @@ From a graph database composed of millions of known molecular interactions, I cr
 ---
 [Feature Engine](https://www.revivemed.io/)
 
-Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, various statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered using different significant thresholds and used to create a disease module using ReviveMed mathematical algorithms.
+Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, different simple and multivariate statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered and used to create a disease module using ReviveMed mathematical algorithms.
 
 ---
 
-### Harvard Biostatistics Thesis
+### Harvard Biostatistics Thesis (August 2018 - May 2019)
 
 [Associations Between Volitional Physical Activity and Mortality Index](https://www.slideshare.net/slideshow/embed_code/key/5kpW21dsRLKtEo)
 
@@ -28,7 +28,7 @@ I explored different models such as linear mixed model and generalized estimatin
 
 ---
 
-### Centers for Disease Control and Prevention
+### Centers for Disease Control and Prevention (September 2017 - September 2018)
 
 <img src="images/cdc_logo.jpg?raw=true"/>
 
