@@ -2,7 +2,7 @@
 
 ---
 
-### ReviveMed (June 2019 - Present)
+### Data Scientist @ ReviveMed
 
 [Network Analysis](https://www.revivemed.io/)
 <img src="images/nash2.jpg?raw=true"/>
@@ -16,7 +16,7 @@ Quality control for raw omics data is performed that involves various steps such
 
 ---
 
-### Harvard Biostatistics Thesis (August 2018 - May 2019)
+### Graduate Thesis @ Harvard University
 
 [Associations Between Volitional Physical Activity and Mortality Index](https://www.slideshare.net/slideshow/embed_code/key/5kpW21dsRLKtEo)
 
@@ -28,7 +28,7 @@ I explored different models such as linear mixed model and generalized estimatin
 
 ---
 
-### Centers for Disease Control and Prevention (September 2017 - September 2018)
+### Data Fellow @ CDC
 
 <img src="images/cdc_logo.jpg?raw=true"/>
 
