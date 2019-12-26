@@ -1,11 +1,18 @@
-title: James Yeongjun Park # your name (or website title) here
+title: James Y. Park # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a data scientist at ReviveMed, a MIT spin-out company using artificial intelligence and multiomics for drug discovery purposes. Our technology is published in <a href="https://www.nature.com/articles/nmeth.3940">Nature Methods</a> and featured in <a href="https://www.ted.com/talks/leila_pirhaji_the_medical_potential_of_ai_and_metabolites/transcript?language=en">Ted Talk</a>. 
+  <br>
+  Within the company, I generate molecular, study, and tissue-specific disease networks and perform network analysis and graph algorithms to identify potential therapeutic targets. I also workr with a command-line interface Feature Engine spacee that prioritizes important biological features from raw omics- data using different statistical models. I am also highly involved with business development in the company.
+  <br>
   
   <a href="https://www.linkedin.com/in/jamesyjpark/">View My LinkedIn Profile</a> 
   
+  <br>
+  
   <a href="https://scholar.google.com/citations?user=I9LkZVYAAAAJ&hl=en&oi=ao">View My Google Scholar Profile</a>
+  
+  <br>
   
   <a href="https://github.com/Jamesyjpark">View My Github Profile</a>
   
