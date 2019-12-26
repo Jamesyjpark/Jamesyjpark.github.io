@@ -31,6 +31,8 @@ I explored different models such as linear mixed model and generalized estimatin
 
 ### Centers for Disease Control and Prevention
 
+<img src="images/cdc_logo.jpg?raw=true"/>
+
 The Chronic Viral Diseases Branch (CVDB) has tested for HPV genotypes in over 80,000
 specimens to measure the impact of vaccination in US surveillance studies. For reliable monitoring of
 trends, quality assurance of the assays is vital. CVDB uses multiple processes and controls to assure the
