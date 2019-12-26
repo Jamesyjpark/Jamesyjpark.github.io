@@ -1,4 +1,4 @@
-## James Park: Current and Previous Projects
+## JYP: Current and Previous Projects
 
 ---
 
@@ -31,10 +31,24 @@ I explored different models such as linear mixed model and generalized estimatin
 
 ### Centers for Disease Control and Prevention
 
+The Chronic Viral Diseases Branch (CVDB) has tested for HPV genotypes in over 80,000
+specimens to measure the impact of vaccination in US surveillance studies. For reliable monitoring of
+trends, quality assurance of the assays is vital. CVDB uses multiple processes and controls to assure the
+performance of qualitative assays for detection of over 30 HPV genotypes. 
+
+Assay results are reviewed quarterly in summary reports before data is submitted to partners. The quality assurance
+process has led to valuable insights and interventions. 
+
+---
+
 [Data Management and Policy Implementation](https://www.slideshare.net/slideshow/embed_code/key/ozCQtel50xfXnC)
+
+As a data fellow, I contributed to consolidatiing assay results of different studies from multiple Microsoft Access databases into one centralized SQL database. 
 
 ---
 [R Package Development to Automate HPV Assay Result Summary](https://www.slideshare.net/slideshow/embed_code/key/oTZDKt4KIkiE1a)
+
+I developed an R-package that automates the quarterly report generation process that was previously done using excel sheets. The R pacakge generates a quarterly report more reliably and about 818 times faster.
 
 ---
 
