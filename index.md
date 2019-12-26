@@ -5,15 +5,14 @@
 ### ReviveMed
 
 [Network Analysis](https://www.revivemed.io/)
-<img src="images/networkimage.jpg?raw=true"/>
+<img src="images/nash2.jpg?raw=true"/>
 
 From a graph database composed of millions of known molecular interactions, I create species, disease, and tissue specific molecular graphs that are subgraphs of the entire network. I then apply graph algorithms like deep-walk and artificial intelligence to identify potential therapeutic targets.
 
 ---
 [Feature Engine](https://www.revivemed.io/)
-<img src="images/feature.jpg?raw=true"/>
 
-Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, various statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered using different significant thresholds and used to create a disease module using our ReviveMed mathematical algorithm.
+Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, various statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered using different significant thresholds and used to create a disease module using ReviveMed mathematical algorithms.
 
 ---
 
