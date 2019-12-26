@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a data scientist at ReviveMed, a MIT spin-out company using artificial intelligence and multiomics for drug discovery purposes. Our technology is published in <a href="https://www.nature.com/articles/nmeth.3940">Nature Methods</a> and featured in <a href="https://www.ted.com/talks/leila_pirhaji_the_medical_potential_of_ai_and_metabolites/transcript?language=en">Ted Talk</a>. 
   <br><br>
   
-  <a href="https://github.com/Jamesyjpark/Jamesyjpark.github.io/raw/master/JamesParkCV.pdf">View My CV</a> 
+  <iframe src="https://docs.google.com/gview?url= https://github.com/Jamesyjpark/Jamesyjpark.github.io/raw/master/JamesParkCV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   <br>
   <a href="https://www.linkedin.com/in/jamesyjpark/">View My LinkedIn Profile</a> 
   <br>
