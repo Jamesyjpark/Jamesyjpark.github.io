@@ -17,9 +17,9 @@ Quality control for raw omics data is performed that involves various steps such
 
 ---
 
-### Harvard Biostatistics Master's Thesis
+### Harvard Biostatistics Thesis
 
-[Associations Between Volitional Physical Activity and Mortality Index in HIV Cohorts](https://www.slideshare.net/slideshow/embed_code/key/5kpW21dsRLKtEo)
+[Associations Between Volitional Physical Activity and Mortality Index](https://www.slideshare.net/slideshow/embed_code/key/5kpW21dsRLKtEo)
 
 <img src="images/simulations.jpg?raw=true"/>
 
