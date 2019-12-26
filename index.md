@@ -4,13 +4,14 @@
 
 ### ReviveMed
 
-[Network Analysis]
+[Network Analysis](https://www.revivemed.io/)
 <img src="images/networkimage.jpg?raw=true"/>
 
 From a graph database composed of millions of known molecular interactions, I create species, disease, and tissue specific molecular graphs that are subgraphs of the entire network. I then apply graph algorithms like deep-walk and artificial intelligence to identify potential therapeutic targets.
 
 ---
-[Feature Engine]
+[Feature Engine](https://www.revivemed.io/)
+<img src="images/feature.jpg?raw=true"/>
 
 Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, various statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered using different significant thresholds and used to create a disease module using our ReviveMed mathematical algorithm.
 
@@ -18,7 +19,8 @@ Quality control for raw omics data is performed that involves various steps such
 
 ### Harvard Biostatistics Master's Thesis
 
-[Associations Between Volitional Physical Activity and Mortality Index in HIV Cohorts]
+[Associations Between Volitional Physical Activity and Mortality Index in HIV Cohorts](https://www.slideshare.net/slideshow/embed_code/key/5kpW21dsRLKtEo)
+
 <img src="images/simulations.jpg?raw=true"/>
 
 People living with HIV/AIDS (PLWH) are living longer but with increased risk for functional decline compared to HIV negative adults of the same age. Literature suggests that slower walking speed is associated with adverse health outcomes, and faster decrease in walking speed is correlated with worse health outcomes. My thesis explored the role of Veterans Aging Cohort Study (VACS) indices as the predictors of accelerometry-based physical activity in two HIV cohorts. 
@@ -29,10 +31,10 @@ I explored different models such as linear mixed model and generalized estimatin
 
 ### Centers for Disease Control and Prevention
 
-[Data Management and Policy Implementation](http://example.com/)
+[Data Management and Policy Implementation](https://www.slideshare.net/slideshow/embed_code/key/ozCQtel50xfXnC)
 
 ---
-[R Package Development to Automate HPV Assay Result Summary](http://example.com/)
+[R Package Development to Automate HPV Assay Result Summary](https://www.slideshare.net/slideshow/embed_code/key/oTZDKt4KIkiE1a)
 
 ---
 
@@ -57,8 +59,6 @@ Research Journal of Human Sciences (June 2016)
 
 1. Gabriel M. Lee, **James Y. Park** et al., “Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.” Journal of Hypertension (2020)
 2. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” American Journal of Preventative Medicine (2020)
-
----
 
 ---
 <p style="font-size:11px">
