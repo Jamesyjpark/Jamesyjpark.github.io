@@ -57,7 +57,7 @@ I developed an R-package that automates the quarterly report generation process 
 
 ### Published Manuscripts
 
-1. Chien-Chang Lee, Sih-Shiang-Huang, Yee Hui Yeo, **James Y. Park** et al., “High-sensitivity-cardiac Troponin for Accelerated Diagnosis of Acute Myocardial Infarction: A Systematic Review of Meta-analysis.” American Journal of Emergency Medicine (December 2019)
+1. Chien-Chang Lee, Sih-Shiang-Huang, Yee Hui Yeo, **James Y. Park** et al., [“High-sensitivity-cardiac Troponin for Accelerated Diagnosis of Acute Myocardial Infarction: A Systematic Review of Meta-analysis.”](https://www.ajemjournal.com/article/S0735-6757(19)30774-0/fulltext) American Journal of Emergency Medicine (December 2019)
 2. Wan-Ting Hsu, Brandon P. Galm, Gregory Schrank, **James Y. Park** et al. [“Effect of renin- angiotensin-aldosterone system inhibitors on short-term mortality after sepsis: a population-based cohort study.”](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.119.13197) Hypertension (November 2019)
 3. **James Y. Park**. [“The Current State of Medical Error in South Korea.”](https://search.proquest.com/openview/c5e2e4ec7d800912a09eee59ae8cc650/1?pq-origsite=gscholar&cbl=44457) Ethics & Medicine (March 2019)
 4. **James Y. Park**. [“Impact of specimen age on its DNA quality for Formalin-Fixed-Paraffin-Embedded HPV specimens.”](https://www.biorxiv.org/content/10.1101/420224v1.abstract) International Society for Biological and Environmental Repositories (February 2019)
