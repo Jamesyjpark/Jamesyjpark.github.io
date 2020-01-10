@@ -73,7 +73,12 @@ Research Journal of Human Sciences (June 2016)
 ### Submitted Manuscirpts
 
 1. Gabriel M. Lee, **James Y. Park** et al., “Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.” Journal of Hypertension (2020)
-2. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” American Journal of Preventative Medicine (2020)
+2. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” Chest (2020)
  
+### Manuscirpts in Preparation
+
+1. **James Y. Park**, Hsiang-Lin Chan, Jennie Hsu et al., "Comparing Hazard Ratio and Ratio of Restricted Mean Survival Times in Sepsis Randomized Controlled Trials." (2020)
+2. **James Y. Park**, Jennie Hsu, Paul Lee et al., "Machine Learning Algorithms to Predict Sepsis Mortality: Results from the US Nationwide Inpatient Sample." (2020)
+
 ---
 <p style="font-size:11px">
