@@ -15,6 +15,11 @@ From a graph database composed of millions of known molecular interactions, I cr
 Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, different simple and multivariate statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered and used to create a disease module using ReviveMed mathematical algorithms.
 
 ---
+[Interal Project](https://www.revivemed.io/)
+
+Using ReviveMed proprietary data and network AI algorithms, I am leading internal programs through using biological disease mechanisms, processing raw omics data, analyzing processed data, and finding effective therapeutic targets. We are currently focusing on different metabolic and chronic diseases.
+
+---
 
 ### Graduate Thesis @ Harvard University
 
