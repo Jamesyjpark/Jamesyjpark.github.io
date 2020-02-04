@@ -77,8 +77,9 @@ Research Journal of Human Sciences (June 2016)
 
 ### Submitted Manuscripts
 
-1. Gabriel M. Lee, **James Y. Park** et al., “Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.” Journal of Hypertension (2020)
-2. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” Chest (2020)
+1. Wan-Ting Hsu, **James Y. Park**, Chien-Chang Lee., "Quantifying the risk of PPI therapy for stress ulcer prophylaxis among ICU patients requiring invasive mechanical ventilation." JAMA: The Journal of the American Medical Association (2020)
+2. Gabriel M. Lee, **James Y. Park** et al., “Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.” Journal of Hypertension (2020)
+3. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” Chest (2020)
  
 ### Manuscripts in Preparation
 
