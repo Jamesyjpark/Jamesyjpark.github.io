@@ -78,7 +78,7 @@ Assays for Long-term Surveillance Studies of HPV.”](https://www.aphl.org/confe
 
 ### Submitted Manuscripts
 
-1. Wan-Ting Hsu, **James Y. Park**, Chien-Chang Lee., "Quantifying the risk of PPI therapy for stress ulcer prophylaxis among ICU patients requiring invasive mechanical ventilation." JAMA: The Journal of the American Medical Association (2020)
+1. Zaamin B. Hussain, **James Y. Park**, Joseph C. Mclntyre et al., “Can GPS big data be helpful for monitoring population adherence to social distancing in the COVID-19 pandemic?” The Lancet (2020)
 2. Gabriel M. Lee, **James Y. Park** et al., “Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.” Journal of Hypertension (2020)
 3. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” European Respiratory Journal (2020)
  
