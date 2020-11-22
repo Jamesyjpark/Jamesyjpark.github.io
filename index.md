@@ -3,6 +3,12 @@
 ---
 ### Head of Ops @ ReviveMed
 
+[Interal Product Lead](https://www.revivemed.io/)
+
+Using ReviveMed proprietary data and network AI algorithms, I am leading internal programs through deciphering biological disease mechanisms, processing raw omics data, analyzing processed data, and finding effective therapeutic targets using probabilistic models and machine learning. We are currently focusing on different metabolic and chronic diseases.
+
+---
+
 ### Data Scientist @ ReviveMed
 
 [Network Analysis](https://www.revivemed.io/)
@@ -11,16 +17,10 @@
 From a graph database composed of millions of molecular (i.e., protein-metabolite) interactions, I created species, disease, and tissue specific molecular graphs that are subgraphs of the entire network. I then apply graph algorithms and artificial intelligence to identify potential therapeutic targets.
 
 ---
-[Feature Engine](https://www.revivemed.io/)
+[Data Integration with High Dimensionality](https://www.revivemed.io/)
+<img src="images/data_integration.jpg?raw=true"/>
 
-Quality control for raw omics data is performed that involves various steps such as normalizing data and removing outliers. After quality control, different simple and multivariate statistical tests such as partial least square regression are used to prioritize important biological features. These features are filtered and used to create a disease module using ReviveMed mathematical algorithms.
-
----
-[Interal Project](https://www.revivemed.io/)
-
-Using ReviveMed proprietary data and network AI algorithms, I am leading internal programs through using biological disease mechanisms, processing raw omics data, analyzing processed data, and finding effective therapeutic targets. We are currently focusing on different metabolic and chronic diseases.
-
----
+Quality control for raw molecular data is performed that involves various steps such as normalizing data and removing outliers. After quality control, different simple and multivariate statistical tests such as partial least square regression are used to prioritize important molecular features. These features are filtered and used as inputs to create a disease module using ReviveMed network algorithms. I worked on integrating different studies coming from different molecular level (i.e., protein, RNA, metabolite) and patient phenotypes. 
 
 ### Graduate Thesis @ Harvard University
 
@@ -62,7 +62,7 @@ I developed an R-package that automates the quarterly report generation process 
 ## Publications
 
 ### Published Manuscripts
-1. Chien-Chang Lee, Gabriel Lee, Wan-Ting Hsu, **James Y. Park** et al., [“Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.”] Hypertension (December 2020)
+1. Chien-Chang Lee, Gabriel Lee, Wan-Ting Hsu, **James Y. Park** et al., “Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.” Hypertension (December 2020)
 2. Songhomitra Panda-Jonas, **James Park**, Deepak Kumar Pasupula et al., [“Global age-sex specific fertility, mortality, healthy life expectancy (HALE), and population estimates in 204 countries and territories, 1950-2019: a comprehensive demographic analysis for the Global Burden of Disease Study 2019.”](https://www.sciencedirect.com/science/article/pii/S0140673620309776) The Lancet (November 2020)
 3. **James Y. Park**. ["Spatial Visualization of Cluster-Specific COVID-19 Transmission Network in
 South Korea During the Early Epidemic Phase."](https://www.medrxiv.org/content/10.1101/2020.03.18.20038638v1) medRxiv (March 2020)
