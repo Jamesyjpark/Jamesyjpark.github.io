@@ -17,11 +17,13 @@ Using ReviveMed proprietary data and network AI algorithms, I am leading interna
 
 From a graph database composed of millions of molecular (i.e., protein-metabolite) interactions, I created species, disease, and tissue specific molecular graphs that are subgraphs of the entire network. I then apply graph algorithms and artificial intelligence to identify potential therapeutic targets.
 
----
+
 [Data Integration with High Dimensionality](https://www.revivemed.io/)
 <img src="images/data_integration.jpg?raw=true"/>
 
 Quality control for raw molecular data is performed that involves various steps such as normalizing data and removing outliers. After quality control, different simple and multivariate statistical tests such as partial least square regression are used to prioritize important molecular features. These features are filtered and used as inputs to create a disease module using ReviveMed network algorithms. I worked on integrating different studies coming from different molecular level (i.e., protein, RNA, metabolite) and patient phenotypes. 
+
+---
 
 ### Graduate Thesis @ Harvard University
 
@@ -47,13 +49,11 @@ performance of qualitative assays for detection of over 30 HPV genotypes.
 Assay results are reviewed quarterly in summary reports before data is submitted to partners. The quality assurance
 process has led to valuable insights and interventions. 
 
----
 
 [Data Management and Policy Implementation](https://www.slideshare.net/slideshow/embed_code/key/ozCQtel50xfXnC)
 
 As a data fellow, I contributed to consolidatiing assay results of different studies from multiple Microsoft Access databases into one centralized SQL database. 
 
----
 [R Package Development to Automate HPV Assay Result Summary](https://www.slideshare.net/slideshow/embed_code/key/oTZDKt4KIkiE1a)
 
 I developed an R-package that automates the quarterly report generation process that was previously done using excel sheets. The R pacakge generates a quarterly report more reliably and about 818 times faster.
