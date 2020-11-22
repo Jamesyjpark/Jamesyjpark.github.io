@@ -4,15 +4,16 @@
 ### Head of Ops @ ReviveMed
 
 [Interal Product Lead](https://www.revivemed.io/)
+<img src="images/project.jpg?raw=true"/>
 
-Using ReviveMed proprietary data and network AI algorithms, I am leading internal programs through deciphering biological disease mechanisms, processing raw omics data, analyzing processed data, and finding effective therapeutic targets using probabilistic models and machine learning. We are currently focusing on different metabolic and chronic diseases.
+Using ReviveMed proprietary data and network AI algorithms, I am leading internal programs through deciphering biological disease mechanisms, processing raw omics data, analyzing processed data, and finding effective therapeutic targets using probabilistic models and machine learning. We are currently focusing on different metabolic and chronic diseases, and we plan to validate our targets in pre-clinial animal models. 
 
 ---
 
 ### Data Scientist @ ReviveMed
 
 [Network Analysis](https://www.revivemed.io/)
-<img src="images/nash2.jpg?raw=true"/>
+<img src="images/knowledge_graph.jpg?raw=true"/>
 
 From a graph database composed of millions of molecular (i.e., protein-metabolite) interactions, I created species, disease, and tissue specific molecular graphs that are subgraphs of the entire network. I then apply graph algorithms and artificial intelligence to identify potential therapeutic targets.
 
