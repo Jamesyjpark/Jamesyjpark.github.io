@@ -63,7 +63,7 @@ I developed an R-package that automates the quarterly report generation process 
 ## Publications
 
 ### Published Manuscripts
-1. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” Journal of Acute Medicine (2021)
+1. **James Y. Park**, Yu-Chiang Wang, Eric Tsou et al., “Use of Opioids and Outcomes of Pneumonia: Results from the US Nationwide Inpatient Sample.” Journal of Acute Medicine (January 2021)
 2. Chien-Chang Lee, Gabriel Lee, Wan-Ting Hsu, **James Y. Park** et al., [“Use of calcium channel blockers and risk of active tuberculosis disease: a population-based analysis.”](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15534#:~:text=Use%20of%20CCBs%20was%20associated,adjustment%20with%20disease%20risk%20score.) Hypertension (December 2020)
 3. Songhomitra Panda-Jonas, **James Park**, Deepak Kumar Pasupula et al., [“Global age-sex specific fertility, mortality, healthy life expectancy (HALE), and population estimates in 204 countries and territories, 1950-2019: a comprehensive demographic analysis for the Global Burden of Disease Study 2019.”](https://www.sciencedirect.com/science/article/pii/S0140673620309776) The Lancet (November 2020)
 4. **James Y. Park**. ["Spatial Visualization of Cluster-Specific COVID-19 Transmission Network in
